@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Conceptualización de www.puedotenercasa.com
-datePublished: '2016-04-28T08:37:09.564Z'
-dateModified: '2016-04-28T08:35:18.484Z'
+datePublished: '2016-04-28T13:47:47.748Z'
+dateModified: '2016-04-28T13:47:37.163Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-28-conceptualizacion-de-wwwpuedotenercasacom.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-28-conceptualizacion-de-wwwpuedotenercasacom.md
-published: true
 url: conceptualizacion-de-wwwpuedotenercasacom/index.html
 _type: Article
 
